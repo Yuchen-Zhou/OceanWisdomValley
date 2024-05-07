@@ -1,0 +1,10 @@
+FrontEnd/node_modules
+FrontEnd/.idea
+FrontEnd/.vscode
+
+/.idea
+
+
+Station/.idea
+Station/logs
+Station/media
